@@ -19,11 +19,11 @@ I used one hidden layer and repeat the cat/non-cat classifier, I saw this worked
 # Fourth week
 In this week I created deep neural network with more than one hidden layer.
 The steps I followed to create deep neural network is:
-           - Parameter Initialization
-           - Forward propogation
-           - Calculating cost.
-           - Backward propogation
-           - updating parameters
-           - find cost
+           -> Parameter Initialization
+           -> Forward propogation
+           -> Calculating cost.
+           -> Backward propogation
+           -> updating parameters
+           -> find cost
  This way I successfully create cat/non-cat classifier with L-layer model.
  I saw, I got more accuracy this time than shallow neural network.
